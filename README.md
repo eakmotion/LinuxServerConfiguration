@@ -210,3 +210,9 @@ Apache uses the .wsgi file to serve the Flask app
   `Could not reliably determine the VPS's fully qualified domain name, using 127.0.0.1 for ServerName `
 Ignore that message its just a warning
 3. Go to this link: http://35.160.113.98
+
+# Third-party Resources
+- [How To Deploy a Flask Application on an Ubuntu VPS](https://www.digitalocean.com/community/tutorials/how-to-deploy-a-flask-application-on-an-ubuntu-vps)
+- [How To Secure PostgreSQL on an Ubuntu VPS](https://www.digitalocean.com/community/tutorials/how-to-secure-postgresql-on-an-ubuntu-vps)
+- [Udacity discussion forum](https://discussions.udacity.com/t/solved-target-wsgi-script-cannot-be-loaded-as-python-module/209080)
+- [Stack Overflow](http://stackoverflow.com/questions/12728004/error-no-module-named-psycopg2-extensions/37717229)
